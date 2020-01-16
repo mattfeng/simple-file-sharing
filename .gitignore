@@ -1,0 +1,8 @@
+*.DS_Store
+__MACOSX
+
+*.py[aoc]
+__pycache__
+
+venv/
+secrets.env
