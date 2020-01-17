@@ -1,5 +1,5 @@
 #!/bin/sh
 
 . ../venv/bin/activate
-. ./secrets.env
+. ./config/secrets.env
 python ./run.py
